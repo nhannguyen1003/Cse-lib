@@ -24,7 +24,7 @@ $ mvn jetty:run
 http://localhost:9000
 ```
 
-### default account
+### Default account
 
 ### Admin
 
@@ -35,3 +35,8 @@ password 111111
 
 username 1501014101
 password 111111
+
+# Some preview picture
+You can get preview picture add
+[https://github.com/nhannguyen1003/Cse-lib/tree/master/preview](https://github.com/nhannguyen1003/Cse-lib/tree/master/preview)
+
